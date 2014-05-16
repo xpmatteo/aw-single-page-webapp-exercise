@@ -1,7 +1,7 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>it.xpug</groupId>
-  <artifactId>aw-servlet-exercises</artifactId>
+  <artifactId>aw-single-page-webapp-exercise</artifactId>
   <version>0.1-SNAPSHOT</version>
 
   <properties>
@@ -49,13 +49,13 @@
     <dependency>
       <groupId>org.mortbay.jetty</groupId>
       <artifactId>jetty-util</artifactId>
-      <version>6.1.25</version>
+      <version>6.1.26</version>
     </dependency>
 
     <dependency>
       <groupId>org.mortbay.jetty</groupId>
       <artifactId>jetty</artifactId>
-      <version>6.1.25</version>
+      <version>6.1.26</version>
     </dependency>
 
     <!-- Contains a nice JSON formatting utility -->
