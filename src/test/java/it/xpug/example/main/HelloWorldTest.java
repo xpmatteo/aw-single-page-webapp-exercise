@@ -8,7 +8,7 @@ import org.junit.*;
 
 public class HelloWorldTest extends BaseTestCase {
 
-	@Test
+	@Test@Ignore
 	public void helloWorld() throws Exception {
 		get("/hello");
 		assertStatus(200);
