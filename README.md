@@ -81,7 +81,9 @@ Then deploy again with
 
 This time it should take less time.  This time the application should work.
 
+## Exercise 1: make it work
 
+We have the UI in the index.html file, but it does not work.  Your task is to add behaviour in JavaScript so that the index page calls the server with Ajax to perform the temperature unit conversion work.
 
 
 
